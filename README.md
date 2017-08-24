@@ -1,6 +1,9 @@
 # Ca-Imaging-Extraction
 This page collect all the links to the code that might be reused in the future studies. You are welcome to contribute your own section that might be useful for anyone else in their research.
 
+The code was too large to put it here. The full version could be found here:
+https://drive.google.com/open?id=0B4VgK-0yzdgZNFliQXJYTFpQdmc
+
 Analysis of Ca imaging data and spike extraction
 
 Key papers
